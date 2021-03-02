@@ -1,9 +1,13 @@
-import './App.css';
+import React from "react"
+import "./App.css"
+import { BasicTable } from "./components/BasicTable"
 
 function App() {
   return (
-    <h1>Create react table</h1>
-  );
+    <div className="App">
+      <BasicTable />
+    </div>
+  )
 }
 
-export default App;
+export default App
