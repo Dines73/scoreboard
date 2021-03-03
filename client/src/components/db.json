@@ -5,7 +5,7 @@
     "team": "LA Clippers",
     "soll_1": 1,
     "ist_1": 1,
-    "datum1": "260221"
+    "datum1": "26-02-21"
   },
   {
     "id": 2,
@@ -13,22 +13,22 @@
     "team": "Brooklyn Nets",
     "soll_1": 1,
     "ist_1": 1,
-    "datum1": "260221"
+    "datum1": "26-02-21"
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Kriss Middleton",
     "team": "Millwaukee Bucks",
     "soll_1": 1,
     "ist_1": 1,
-    "datum1": "260221"
+    "datum1": "26-02-21"
   },
   {
-    "id": 1,
+    "id": 4,
     "name": "Luka Doncic",
     "team": "Dallas Mavs",
     "soll_1": 1,
     "ist_1": 1,
-    "datum1": "260221"
+    "datum1": "26-02-21"
   }
 ]
