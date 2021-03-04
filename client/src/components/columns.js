@@ -27,6 +27,46 @@ export const COLUMNS = [
   }
 ]
 
+export const GROUPED_COLUMNS = [
+  {
+    Header: "Datum",
+    Footer: "Datum",
+    accessor: "datum1"
+  },
+  {
+    Header: "Player",
+    Footer: "Player",
+    columns: [
+      {
+        Header: "Name",
+        Footer: "Name",
+        accessor: "name"
+      },
+      {
+        Header: "Team",
+        Footer: "Team",
+        accessor: "team"
+      }
+    ]
+  },
+  {
+    Header: "Score",
+    Footer: "Score",
+    columns: [
+      {
+        Header: "Soll",
+        Footer: "Soll",
+        accessor: "soll_1"
+      },
+      {
+        Header: "Ist",
+        Footer: "Ist",
+        accessor: "ist_1"
+      }
+    ]
+  }
+]
+
 //   "id": 2,
 //   "name": "Kyrie Irving",
 //   "team": "Brooklyn Nets",
