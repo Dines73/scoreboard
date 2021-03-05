@@ -1,7 +1,7 @@
 import React, { useMemo } from "react"
 import { useTable } from "react-table"
 import Data from "./db.json"
-import { COLUMNS, GROUPED_COLUMNS } from "./columns"
+import { GROUPED_COLUMNS } from "./columns"
 import "./table.css"
 
 export const BasicTable = () => {
@@ -27,7 +27,9 @@ export const BasicTable = () => {
         {headerGroups.map(headerGroup => (
           <tr {...headerGroup.getHeaderGroupProps()}>
             {headerGroup.headers.map(column => (
-              <th {...column.getHeaderProps()}>{column.render("Header")}</th>
+              <th key={column.id} {...column.getHeaderProps()}>
+                {column.render("Header")}
+              </th>
             ))}
           </tr>
         ))}
@@ -38,7 +40,11 @@ export const BasicTable = () => {
           return (
             <tr {...row.getRowProps()}>
               {row.cells.map(cell => {
-                return <td {...cell.getCellProps()}>{cell.render("Cell")}</td>
+                return (
+                  <td key={cell.id} {...cell.getCellProps()}>
+                    {cell.render("Cell")}
+                  </td>
+                )
               })}
             </tr>
           )
@@ -48,7 +54,9 @@ export const BasicTable = () => {
         {footerGroups.map(footerGroup => (
           <tr {...footerGroup.getFooterGroupProps()}>
             {footerGroup.headers.map(column => (
-              <td {...column.getFooterProps}>{column.render("Footer")}</td>
+              <td key={column.id} {...column.getFooterProps}>
+                {column.render("Footer")}
+              </td>
             ))}
           </tr>
         ))}

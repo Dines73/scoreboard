@@ -33,6 +33,7 @@ export const GROUPED_COLUMNS = [
     Footer: "Datum",
     accessor: "datum1"
   },
+  { Header: "Id", Footer: "Id", accessor: "id" },
   {
     Header: "Player",
     Footer: "Player",
