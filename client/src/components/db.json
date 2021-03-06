@@ -3,32 +3,32 @@
     "id": 1,
     "name": "Kawhi Leonard",
     "team": "LA Clippers",
-    "soll_1": 1,
-    "ist_1": 1,
-    "datum1": "26-02-21"
+    "soll_1": 28,
+    "ist_1": 26,
+    "datum1": "2021-02-16T23:04:32Z"
   },
   {
     "id": 2,
     "name": "Kyrie Irving",
     "team": "Brooklyn Nets",
-    "soll_1": 1,
-    "ist_1": 1,
-    "datum1": "26-02-21"
+    "soll_1": 25,
+    "ist_1": 27,
+    "datum1": "2021-02-18T23:04:32Z"
   },
   {
     "id": 3,
     "name": "Kriss Middleton",
     "team": "Millwaukee Bucks",
-    "soll_1": 1,
-    "ist_1": 1,
-    "datum1": "26-02-21"
+    "soll_1": 20,
+    "ist_1": 18,
+    "datum1": "2021-02-17T23:04:32Z"
   },
   {
     "id": 4,
     "name": "Luka Doncic",
     "team": "Dallas Mavs",
-    "soll_1": 1,
-    "ist_1": 1,
-    "datum1": "26-02-21"
+    "soll_1": 33,
+    "ist_1": 35,
+    "datum1": "2021-02-16T23:04:32Z"
   }
 ]

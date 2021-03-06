@@ -1,8 +1,13 @@
+import { format } from "date-fns"
+
 export const COLUMNS = [
   {
     Header: "Datum",
     Footer: "Datum",
-    accessor: "datum1"
+    accessor: "datum1",
+    Cell: ({ value }) => {
+      return format(new Date(value), "dd/MM/yyyy")
+    }
   },
   { Header: "Id", Footer: "Id", accessor: "id" },
   {
