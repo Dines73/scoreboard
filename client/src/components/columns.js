@@ -16,9 +16,9 @@ export const COLUMNS = [
     accessor: "name"
   },
   {
-    Header: "Team",
-    Footer: "Team",
-    accessor: "team"
+    Header: "Game",
+    Footer: "Game",
+    accessor: "game"
   },
   {
     Header: "Soll",
@@ -49,9 +49,9 @@ export const GROUPED_COLUMNS = [
         accessor: "name"
       },
       {
-        Header: "Team",
-        Footer: "Team",
-        accessor: "team"
+        Header: "Game",
+        Footer: "Game",
+        accessor: "game"
       }
     ]
   },
