@@ -4,6 +4,7 @@ import Data from "./db.json"
 import { COLUMNS } from "./columns"
 import "./table.css"
 import { GlobalFilter } from "./GlobalFilter"
+import { ColumnFilter } from "./ColumnFilter"
 
 export const FilteringTable = () => {
   const columns = useMemo(() => COLUMNS, [])
@@ -12,6 +13,11 @@ export const FilteringTable = () => {
   //   columns,
   //   data
   // })
+  const defaultColumn = useMemo(() => {
+    return {
+      Filter: ColumnFilter
+    }
+  }, [])
 
   const {
     getTableProps,
@@ -25,7 +31,8 @@ export const FilteringTable = () => {
   } = useTable(
     {
       columns,
-      data
+      data,
+      defaultColumn
     },
     useFilters,
     useGlobalFilter
