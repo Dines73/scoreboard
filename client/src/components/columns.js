@@ -1,4 +1,5 @@
 import { format } from "date-fns"
+import { ColumnFilter } from "./ColumnFilter"
 
 export const COLUMNS = [
   {
@@ -7,28 +8,38 @@ export const COLUMNS = [
     accessor: "datum1",
     Cell: ({ value }) => {
       return format(new Date(value), "dd/MM/yyyy")
-    }
+    },
+    Filter: ColumnFilter
   },
-  { Header: "Id", Footer: "Id", accessor: "id" },
+  {
+    Header: "Id",
+    Footer: "Id",
+    accessor: "id",
+    Filter: ColumnFilter
+  },
   {
     Header: "Name",
     Footer: "Name",
-    accessor: "name"
+    accessor: "name",
+    Filter: ColumnFilter
   },
   {
     Header: "Game",
     Footer: "Game",
-    accessor: "game"
+    accessor: "game",
+    Filter: ColumnFilter
   },
   {
     Header: "Soll",
     Footer: "Soll",
-    accessor: "soll_1"
+    accessor: "soll_1",
+    Filter: ColumnFilter
   },
   {
     Header: "Ist",
     Footer: "Ist",
-    accessor: "ist_1"
+    accessor: "ist_1",
+    Filter: ColumnFilter
   }
 ]
 
