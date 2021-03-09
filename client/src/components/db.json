@@ -30,5 +30,69 @@
     "soll_1": 30,
     "ist_1": 33,
     "datum1": "2021-03-01T23:04:32Z"
+  },
+  {
+    "id": 1,
+    "name": "Kawhi Leonard",
+    "game": "WAS-LAC",
+    "soll_1": 27,
+    "ist_1": 22,
+    "datum1": "2021-03-04T23:04:32Z"
+  },
+  {
+    "id": 2,
+    "name": "Kyrie Irving",
+    "game": "HOU-BRO",
+    "soll_1": 25,
+    "ist_1": 24,
+    "datum1": "2021-03-03T23:04:32Z"
+  },
+  {
+    "id": 3,
+    "name": "Kriss Middleton",
+    "game": "MEM-MIL",
+    "soll_1": 20,
+    "ist_1": 22,
+    "datum1": "2021-03-04T23:04:32Z"
+  },
+  {
+    "id": 4,
+    "name": "Luka Doncic",
+    "game": "ORL-DAL",
+    "soll_1": 30,
+    "ist_1": 33,
+    "datum1": "2021-03-01T23:04:32Z"
+  },
+  {
+    "id": 1,
+    "name": "Kawhi Leonard",
+    "game": "WAS-LAC",
+    "soll_1": 27,
+    "ist_1": 22,
+    "datum1": "2021-03-04T23:04:32Z"
+  },
+  {
+    "id": 2,
+    "name": "Kyrie Irving",
+    "game": "HOU-BRO",
+    "soll_1": 25,
+    "ist_1": 24,
+    "datum1": "2021-03-03T23:04:32Z"
+  },
+  {
+    "id": 3,
+    "name": "Kriss Middleton",
+    "game": "MEM-MIL",
+    "soll_1": 20,
+    "ist_1": 22,
+    "datum1": "2021-03-04T23:04:32Z"
+  },
+  {
+    "id": 4,
+    "name": "Luka Doncic",
+    "game": "ORL-DAL",
+    "soll_1": 30,
+    "ist_1": 33,
+    "datum1": "2021-03-01T23:04:32Z"
   }
 ]
