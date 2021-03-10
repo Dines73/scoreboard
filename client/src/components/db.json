@@ -1,98 +1,154 @@
 [
   {
     "id": 1,
-    "name": "Kawhi Leonard",
-    "game": "WAS-LAC",
-    "soll_1": 27,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "name": "B. Clarke",
+    "game": "MEM-WAS",
+    "soll_1": 10.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
     "id": 2,
-    "name": "Kyrie Irving",
-    "game": "HOU-BRO",
-    "soll_1": 25,
-    "ist_1": 24,
-    "datum1": "2021-03-03T23:04:32Z"
+    "name": "D. Bane",
+    "game": "MEM-WAS",
+    "soll_1": 9.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
     "id": 3,
-    "name": "Kriss Middleton",
-    "game": "MEM-MIL",
-    "soll_1": 20,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "name": "Ja Morant",
+    "game": "MEM-WAS",
+    "soll_1": 23.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
     "id": 4,
-    "name": "Luka Doncic",
-    "game": "ORL-DAL",
-    "soll_1": 30,
-    "ist_1": 33,
-    "datum1": "2021-03-01T23:04:32Z"
+    "name": "j. Valanciunas",
+    "game": "MEM-WAS",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 1,
-    "name": "Kawhi Leonard",
-    "game": "WAS-LAC",
-    "soll_1": 27,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "id": 5,
+    "name": "K. Anderson",
+    "game": "MEM-WAS",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 2,
-    "name": "Kyrie Irving",
-    "game": "HOU-BRO",
-    "soll_1": 25,
-    "ist_1": 24,
-    "datum1": "2021-03-03T23:04:32Z"
+    "id": 6,
+    "name": "D. Bertans",
+    "game": "MEM-WAS",
+    "soll_1": 11.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 3,
-    "name": "Kriss Middleton",
-    "game": "MEM-MIL",
-    "soll_1": 20,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "id": 7,
+    "name": "M. Wagner",
+    "game": "MEM-WAS",
+    "soll_1": 7.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 4,
-    "name": "Luka Doncic",
-    "game": "ORL-DAL",
-    "soll_1": 30,
-    "ist_1": 33,
-    "datum1": "2021-03-01T23:04:32Z"
+    "id": 8,
+    "name": "R. Hachimura",
+    "game": "MEM-WAS",
+    "soll_1": 10.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 1,
-    "name": "Kawhi Leonard",
-    "game": "WAS-LAC",
-    "soll_1": 27,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "id": 9,
+    "name": "R. Westbrook",
+    "game": "MEM-WAS",
+    "soll_1": 23.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 2,
-    "name": "Kyrie Irving",
-    "game": "HOU-BRO",
-    "soll_1": 25,
-    "ist_1": 24,
-    "datum1": "2021-03-03T23:04:32Z"
+    "id": 10,
+    "name": "B. Beal",
+    "game": "MEM-WAS",
+    "soll_1": 32.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 3,
-    "name": "Kriss Middleton",
-    "game": "MEM-MIL",
-    "soll_1": 20,
-    "ist_1": 22,
-    "datum1": "2021-03-04T23:04:32Z"
+    "id": 11,
+    "name": "D. Brooks",
+    "game": "MEM-WAS",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   },
   {
-    "id": 4,
-    "name": "Luka Doncic",
-    "game": "ORL-DAL",
-    "soll_1": 30,
-    "ist_1": 33,
-    "datum1": "2021-03-01T23:04:32Z"
+    "id": 12,
+    "name": "D. Finney-S.",
+    "game": "DAL-SAS",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 13,
+    "name": "J. Richardson",
+    "game": "DAL-SAS",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 14,
+    "name": "K. Porzingis",
+    "game": "DAL-SAS",
+    "soll_1": 21.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 15,
+    "name": "L.Doncic",
+    "game": "DAL-SAS",
+    "soll_1": 28.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 16,
+    "name": "M. Kleber",
+    "game": "DAL-SAS",
+    "soll_1": 6.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 17,
+    "name": "T. Hardaway",
+    "game": "DAL-SAS",
+    "soll_1": 14.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 18,
+    "name": "D. DeRozan",
+    "game": "DAL-SAS",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 19,
+    "name": "D. Murray",
+    "game": "DAL-SAS",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-10T23:04:32Z"
   }
 ]
