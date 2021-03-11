@@ -5,7 +5,8 @@ import "./App.css"
 // import { BasicTable } from "./components/BasicTable"
 // import { PaginationTable } from "./components/PaginationTable"
 // import { RowSelection } from "./components/RowSelection"
-import { ColumnOrder } from "./components/ColumnOrder"
+// import { ColumnOrder } from "./components/ColumnOrder"
+import { ColumnHiding } from "./components/ColumnHiding"
 
 // function App() {
 //   return (
@@ -17,7 +18,7 @@ import { ColumnOrder } from "./components/ColumnOrder"
 function App() {
   return (
     <div>
-      <ColumnOrder />
+      <ColumnHiding />
     </div>
   )
 }
