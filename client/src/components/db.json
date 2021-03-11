@@ -150,5 +150,525 @@
     "soll_1": 17.5,
     "ist_1": 11,
     "datum1": "2021-03-10T23:04:32Z"
+  },
+  {
+    "id": 20,
+    "name": "G. Hayward",
+    "game": "CHA-DET",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 21,
+    "name": "La. Ball",
+    "game": "CHA-DET",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 22,
+    "name": "P. Washington",
+    "game": "CHA-DET",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 23,
+    "name": "T. Rozier",
+    "game": "CHA-DET",
+    "soll_1": 18.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 24,
+    "name": "J. Grant",
+    "game": "CHA-DET",
+    "soll_1": 22.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 25,
+    "name": "M. Plumlee",
+    "game": "CHA-DET",
+    "soll_1": 11.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 26,
+    "name": "S. Bey",
+    "game": "CHA-DET",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 27,
+    "name": "B. Brown",
+    "game": "BRO-BOS",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 28,
+    "name": "J. Harden",
+    "game": "BRO-BOS",
+    "soll_1": 27.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 29,
+    "name": "J. Harris",
+    "game": "BRO-BOS",
+    "soll_1": 13.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 30,
+    "name": "K. Irving",
+    "game": "BRO-BOS",
+    "soll_1": 27.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 31,
+    "name": "J. Brown",
+    "game": "BRO-BOS",
+    "soll_1": 23.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 32,
+    "name": "J. Tatum",
+    "game": "BRO-BOS",
+    "soll_1": 24.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 33,
+    "name": "K. Walker",
+    "game": "BRO-BOS",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 34,
+    "name": "D. Jordan",
+    "game": "BRO-BOS",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 35,
+    "name": "K. Lowry",
+    "game": "TOR-ATL",
+    "soll_1": 22.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 36,
+    "name": "N. Powell",
+    "game": "TOR-ATL",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 37,
+    "name": "C.Capela",
+    "game": "TOR-ATL",
+    "soll_1": 14.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 38,
+    "name": "J.Collins",
+    "game": "TOR-ATL",
+    "soll_1": 18.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 39,
+    "name": "K. Huerter",
+    "game": "TOR-ATL",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 40,
+    "name": "T. Young",
+    "game": "TOR-ATL",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 42,
+    "name": "D. Robinson",
+    "game": "MIA-ORL",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 43,
+    "name": "J. Buttler",
+    "game": "MIA-ORL",
+    "soll_1": 22.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 44,
+    "name": "K. Olynyk",
+    "game": "MIA-ORL",
+    "soll_1": 11.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 45,
+    "name": "K. Nunn",
+    "game": "MIA-ORL",
+    "soll_1": 14.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 46,
+    "name": "M. Carter-Williams",
+    "game": "MIA-ORL",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 47,
+    "name": "N. Vucevic",
+    "game": "MIA-ORL",
+    "soll_1": 26.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 48,
+    "name": "Z. LaVine",
+    "game": "CHI-PHI",
+    "soll_1": 28.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 49,
+    "name": "D. Green",
+    "game": "CHI-PHI",
+    "soll_1": 9.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 50,
+    "name": "Se. Curry",
+    "game": "CHI-PHI",
+    "soll_1": 14.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 51,
+    "name": "T. Harris",
+    "game": "CHI-PHI",
+    "soll_1": 24.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 52,
+    "name": "C. White",
+    "game": "CHI-PHI",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 53,
+    "name": "B. Ingram",
+    "game": "NOP-MIN",
+    "soll_1": 24.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 54,
+    "name": "E. Bledsoe",
+    "game": "NOP-MIN",
+    "soll_1": 13.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 55,
+    "name": "Lo. Ball",
+    "game": "NOP-MIN",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 56,
+    "name": "S. Adams",
+    "game": "NOP-MIN",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 57,
+    "name": "Z. Williamson",
+    "game": "NOP-MIN",
+    "soll_1": 28.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 58,
+    "name": "A. Edwards",
+    "game": "NOP-MIN",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 59,
+    "name": "K.A. Towns",
+    "game": "NOP-MIN",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 60,
+    "name": "B. Lopez",
+    "game": "MIL-NYK",
+    "soll_1": 11.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 61,
+    "name": "D. DiVicenzo",
+    "game": "MIL-NYK",
+    "soll_1": 10.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 62,
+    "name": "G. Antetokounmpo",
+    "game": "MIL-NYK",
+    "soll_1": 31.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 63,
+    "name": "K. Middleton",
+    "game": "MIL-NYK",
+    "soll_1": 20.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 64,
+    "name": "J. Randle",
+    "game": "MIL-NYK",
+    "soll_1": 23.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 65,
+    "name": "RJ Barrett",
+    "game": "MIL-NYK",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 66,
+    "name": "R. Bullock",
+    "game": "MIL-NYK",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 67,
+    "name": "N. Noel",
+    "game": "MIL-NYK",
+    "soll_1": 7.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 68,
+    "name": "E. Payton",
+    "game": "MIL-NYK",
+    "soll_1": 13.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 69,
+    "name": "K. Leonard",
+    "game": "LAC-GSW",
+    "soll_1": 27.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 70,
+    "name": "N. Batum",
+    "game": "LAC-GSW",
+    "soll_1": 7.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 71,
+    "name": "P. Beverly",
+    "game": "LAC-GSW",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 72,
+    "name": "P. George",
+    "game": "LAC-GSW",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 73,
+    "name": "S. Ibaka",
+    "game": "LAC-GSW",
+    "soll_1": 10.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 74,
+    "name": "A. Wiggins",
+    "game": "LAC-GSW",
+    "soll_1": 15.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 75,
+    "name": "D. Green",
+    "game": "LAC-GSW",
+    "soll_1": 7.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 76,
+    "name": "K. Oubre",
+    "game": "LAC-GSW",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 77,
+    "name": "St. Curry",
+    "game": "LAC-GSW",
+    "soll_1": 30.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 78,
+    "name": "B. Hield",
+    "game": "SAC-HOU",
+    "soll_1": 18.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 79,
+    "name": "D. Fox",
+    "game": "SAC-HOU",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 80,
+    "name": "H. Barnes",
+    "game": "SAC-HOU",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 81,
+    "name": "D. Lillard",
+    "game": "POR-PHO",
+    "soll_1": 31.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 82,
+    "name": "D. Jones",
+    "game": "POR-PHO",
+    "soll_1": 8.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 83,
+    "name": "E. Kanter",
+    "game": "POR-PHO",
+    "soll_1": 13.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 84,
+    "name": "G. Trent",
+    "game": "POR-PHO",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 85,
+    "name": "R. Covington",
+    "game": "POR-PHO",
+    "soll_1": 9.5,
+    "ist_1": 0,
+    "datum1": "2021-03-11T23:04:32Z"
   }
 ]
