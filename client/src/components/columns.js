@@ -7,7 +7,8 @@ export const COLUMNS = [
     Footer: "Id",
     accessor: "id",
     // Filter: ColumnFilter,
-    disableFilters: true
+    disableFilters: true,
+    sticky: "left"
   },
   {
     Header: "Datum",
@@ -15,15 +16,17 @@ export const COLUMNS = [
     accessor: "datum1",
     Cell: ({ value }) => {
       return format(new Date(value), "dd/MM/yyyy")
-    }
+    },
     // Filter: ColumnFilter
+    sticky: "left"
   },
 
   {
     Header: "Name",
     Footer: "Name",
-    accessor: "name"
+    accessor: "name",
     // Filter: ColumnFilter
+    sticky: "left"
   },
   {
     Header: "Game",
