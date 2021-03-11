@@ -4,7 +4,8 @@ import "./App.css"
 // import { SortingTable } from "./components/SortingTable"
 // import { BasicTable } from "./components/BasicTable"
 // import { PaginationTable } from "./components/PaginationTable"
-import { RowSelection } from "./components/RowSelection"
+// import { RowSelection } from "./components/RowSelection"
+import { ColumnOrder } from "./components/ColumnOrder"
 
 // function App() {
 //   return (
@@ -16,7 +17,7 @@ import { RowSelection } from "./components/RowSelection"
 function App() {
   return (
     <div>
-      <RowSelection />
+      <ColumnOrder />
     </div>
   )
 }

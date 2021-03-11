@@ -4,7 +4,7 @@
     "name": "B. Clarke",
     "game": "MEM-WAS",
     "soll_1": 10.5,
-    "ist_1": 0,
+    "ist_1": 6,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -12,7 +12,7 @@
     "name": "D. Bane",
     "game": "MEM-WAS",
     "soll_1": 9.5,
-    "ist_1": 0,
+    "ist_1": 20,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Ja Morant",
     "game": "MEM-WAS",
     "soll_1": 23.5,
-    "ist_1": 0,
+    "ist_1": 21,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -28,7 +28,7 @@
     "name": "j. Valanciunas",
     "game": "MEM-WAS",
     "soll_1": 17.5,
-    "ist_1": 0,
+    "ist_1": 29,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -36,7 +36,7 @@
     "name": "K. Anderson",
     "game": "MEM-WAS",
     "soll_1": 12.5,
-    "ist_1": 0,
+    "ist_1": 13,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -44,7 +44,7 @@
     "name": "D. Bertans",
     "game": "MEM-WAS",
     "soll_1": 11.5,
-    "ist_1": 0,
+    "ist_1": 13,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -52,7 +52,7 @@
     "name": "M. Wagner",
     "game": "MEM-WAS",
     "soll_1": 7.5,
-    "ist_1": 0,
+    "ist_1": 6,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -60,7 +60,7 @@
     "name": "R. Hachimura",
     "game": "MEM-WAS",
     "soll_1": 10.5,
-    "ist_1": 0,
+    "ist_1": 11,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -68,7 +68,7 @@
     "name": "R. Westbrook",
     "game": "MEM-WAS",
     "soll_1": 23.5,
-    "ist_1": 0,
+    "ist_1": 20,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -76,7 +76,7 @@
     "name": "B. Beal",
     "game": "MEM-WAS",
     "soll_1": 32.5,
-    "ist_1": 0,
+    "ist_1": 21,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -84,7 +84,7 @@
     "name": "D. Brooks",
     "game": "MEM-WAS",
     "soll_1": 17.5,
-    "ist_1": 0,
+    "ist_1": 10,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -92,7 +92,7 @@
     "name": "D. Finney-S.",
     "game": "DAL-SAS",
     "soll_1": 8.5,
-    "ist_1": 0,
+    "ist_1": 7,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -100,7 +100,7 @@
     "name": "J. Richardson",
     "game": "DAL-SAS",
     "soll_1": 12.5,
-    "ist_1": 0,
+    "ist_1": 12,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -108,7 +108,7 @@
     "name": "K. Porzingis",
     "game": "DAL-SAS",
     "soll_1": 21.5,
-    "ist_1": 0,
+    "ist_1": 28,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -116,7 +116,7 @@
     "name": "L.Doncic",
     "game": "DAL-SAS",
     "soll_1": 28.5,
-    "ist_1": 0,
+    "ist_1": 22,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -124,7 +124,7 @@
     "name": "M. Kleber",
     "game": "DAL-SAS",
     "soll_1": 6.5,
-    "ist_1": 0,
+    "ist_1": 11,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -132,7 +132,7 @@
     "name": "T. Hardaway",
     "game": "DAL-SAS",
     "soll_1": 14.5,
-    "ist_1": 0,
+    "ist_1": 9,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -140,7 +140,7 @@
     "name": "D. DeRozan",
     "game": "DAL-SAS",
     "soll_1": 19.5,
-    "ist_1": 0,
+    "ist_1": 30,
     "datum1": "2021-03-10T23:04:32Z"
   },
   {
@@ -148,7 +148,7 @@
     "name": "D. Murray",
     "game": "DAL-SAS",
     "soll_1": 17.5,
-    "ist_1": 0,
+    "ist_1": 11,
     "datum1": "2021-03-10T23:04:32Z"
   }
 ]

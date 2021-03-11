@@ -36,7 +36,7 @@ export const RowSelection = () => {
     }
   )
 
-  const firstPageRows = rows.slice(0, 10)
+  const firstPageRows = rows.slice(0, 25)
 
   return (
     <>
