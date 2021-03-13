@@ -670,5 +670,333 @@
     "soll_1": 9.5,
     "ist_1": 13,
     "datum1": "2021-03-11T23:04:32Z"
+  },
+  {
+    "id": 86,
+    "name": "D. Green",
+    "game": "WAS-PHI",
+    "soll_1": 8.5,
+    "ist_1": 12,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 87,
+    "name": "J. Embiid",
+    "game": "WAS-PHI",
+    "soll_1": 34.5,
+    "ist_1": 23,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 88,
+    "name": "Se. Curry",
+    "game": "WAS-PHI",
+    "soll_1": 13.5,
+    "ist_1": 14,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 89,
+    "name": "T. Harris",
+    "game": "WAS-PHI",
+    "soll_1": 22.5,
+    "ist_1": 14,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 90,
+    "name": "B. Ingram",
+    "game": "NOP-CLE",
+    "soll_1": 24.5,
+    "ist_1": 28,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 91,
+    "name": "E. Bledsoe",
+    "game": "NOP-CLE",
+    "soll_1": 12.5,
+    "ist_1": 0,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 92,
+    "name": "Lo Ball",
+    "game": "NOP-CLE",
+    "soll_1": 15.5,
+    "ist_1": 3,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 93,
+    "name": "S. Adams",
+    "game": "NOP-CLE",
+    "soll_1": 8.5,
+    "ist_1": 10,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 94,
+    "name": "Z. Williamson",
+    "game": "NOP-CLE",
+    "soll_1": 27.5,
+    "ist_1": 23,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 95,
+    "name": "C. Sexton",
+    "game": "NOP-CLE",
+    "soll_1": 24.5,
+    "ist_1": 19,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 96,
+    "name": "D. Brooks",
+    "game": "MEM-DEN",
+    "soll_1": 14.5,
+    "ist_1": 20,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 97,
+    "name": "Ja Morant",
+    "game": "MEM-DEN",
+    "soll_1": 20.5,
+    "ist_1": 16,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 98,
+    "name": "J. Valanciunas",
+    "game": "MEM-DEN",
+    "soll_1": 16.5,
+    "ist_1": 14,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 99,
+    "name": "K. Anderson",
+    "game": "MEM-DEN",
+    "soll_1": 11.5,
+    "ist_1": 2,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 100,
+    "name": "J. Murray",
+    "game": "MEM-DEN",
+    "soll_1": 23.5,
+    "ist_1": 3,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 101,
+    "name": "W. Barton",
+    "game": "MEM-DEN",
+    "soll_1": 11.5,
+    "ist_1": 21,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 102,
+    "name": "D. Murray",
+    "game": "SAS-ORL",
+    "soll_1": 18.5,
+    "ist_1": 17,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 103,
+    "name": "J. Pöltl",
+    "game": "SAS-ORL",
+    "soll_1": 9.5,
+    "ist_1": 6,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 104,
+    "name": "D. White",
+    "game": "SAS-ORL",
+    "soll_1": 14.5,
+    "ist_1": 17,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 105,
+    "name": "K. Johnson",
+    "game": "SAS-ORL",
+    "soll_1": 14.5,
+    "ist_1": 11,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 106,
+    "name": "L. Walker IV",
+    "game": "SAS-ORL",
+    "soll_1": 12.5,
+    "ist_1": 5,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 107,
+    "name": "P. Mills",
+    "game": "SAS-ORL",
+    "soll_1": 14.5,
+    "ist_1": 13,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 108,
+    "name": "A-F Aminu",
+    "game": "SAS-ORL",
+    "soll_1": 7.5,
+    "ist_1": 4,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 109,
+    "name": "M.C. Williams",
+    "game": "SAS-ORL",
+    "soll_1": 14.5,
+    "ist_1": 5,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 110,
+    "name": "Z. LaVine",
+    "game": "CHI-MIA",
+    "soll_1": 26.5,
+    "ist_1": 30,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 111,
+    "name": "C. White",
+    "game": "CHI-MIA",
+    "soll_1": 15.5,
+    "ist_1": 8,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 112,
+    "name": "P. Williams",
+    "game": "CHI-MIA",
+    "soll_1": 9.5,
+    "ist_1": 3,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 113,
+    "name": "W. Carter Jr.",
+    "game": "CHI-MIA",
+    "soll_1": 10.5,
+    "ist_1": 4,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 114,
+    "name": "D. Robinson",
+    "game": "CHI-MIA",
+    "soll_1": 11.5,
+    "ist_1": 15,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 115,
+    "name": "K. Olynik",
+    "game": "CHI-MIA",
+    "soll_1": 13.5,
+    "ist_1": 9,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 116,
+    "name": "K. Nunn",
+    "game": "CHI-MIA",
+    "soll_1": 13.5,
+    "ist_1": 10,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 117,
+    "name": "J. Buttler",
+    "game": "CHI-MIA",
+    "soll_1": 24.5,
+    "ist_1": 28,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 118,
+    "name": "D. Schröder",
+    "game": "LAL-IND",
+    "soll_1": 17.5,
+    "ist_1": 11,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 119,
+    "name": "K. Caldwell-Pope",
+    "game": "LAL-IND",
+    "soll_1": 9.5,
+    "ist_1": 7,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 120,
+    "name": "L.James",
+    "game": "LAL-IND",
+    "soll_1": 28.5,
+    "ist_1": 18,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 121,
+    "name": "D. Sabonis",
+    "game": "LAL-IND",
+    "soll_1": 20.5,
+    "ist_1": 20,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 122,
+    "name": "D. McDermott",
+    "game": "LAL-IND",
+    "soll_1": 12.5,
+    "ist_1": 13,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 123,
+    "name": "J. Holiday",
+    "game": "LAL-IND",
+    "soll_1": 10.5,
+    "ist_1": 5,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 124,
+    "name": "M. Brogdon",
+    "game": "LAL-IND",
+    "soll_1": 19.5,
+    "ist_1": 29,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 125,
+    "name": "M. Turner",
+    "game": "LAL-IND",
+    "soll_1": 12.5,
+    "ist_1": 8,
+    "datum1": "2021-03-12T23:04:32Z"
+  },
+  {
+    "id": 126,
+    "name": "M. Morris",
+    "game": "LAL-IND",
+    "soll_1": 8.5,
+    "ist_1": 8,
+    "datum1": "2021-03-12T23:04:32Z"
   }
 ]
