@@ -1382,5 +1382,445 @@
     "soll_1": 19.5,
     "ist_1": 22,
     "datum1": "2021-03-13T13:04:32Z"
+  },
+  {
+    "id": 176,
+    "name": "Ja Morant",
+    "game": "OKL-MEM",
+    "soll_1": 20.5,
+    "ist_1": 22,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 177,
+    "name": "J. Valanciunas",
+    "game": "OKL-MEM",
+    "soll_1": 19.5,
+    "ist_1": 16,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 179,
+    "name": "K. Oubre Jr.",
+    "game": "GSW-UTA",
+    "soll_1": 16.5,
+    "ist_1": 7,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 180,
+    "name": "St. Curry",
+    "game": "GSW-UTA",
+    "soll_1": 29.5,
+    "ist_1": 32,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 181,
+    "name": "Boj. Bogdanovic",
+    "game": "GSW-UTA",
+    "soll_1": 16.5,
+    "ist_1": 9,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 182,
+    "name": "D. Mitchell",
+    "game": "GSW-UTA",
+    "soll_1": 27.5,
+    "ist_1": 24,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 183,
+    "name": "M. Conley",
+    "game": "GSW-UTA",
+    "soll_1": 17.5,
+    "ist_1": 23,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 184,
+    "name": "J. Clarkson",
+    "game": "GSW-UTA",
+    "soll_1": 16.5,
+    "ist_1": 21,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 185,
+    "name": "PHI-SAS",
+    "game": "B. Simmons",
+    "soll_1": 18.5,
+    "ist_1": 14,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 186,
+    "name": "PHI-SAS",
+    "game": "D. Murray",
+    "soll_1": 18.5,
+    "ist_1": 14,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 187,
+    "name": "PHI-SAS",
+    "game": "T. Harris",
+    "soll_1": 21.5,
+    "ist_1": 23,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 188,
+    "name": "N. Vucevic",
+    "game": "ORL-MIA",
+    "soll_1": 26.5,
+    "ist_1": 38,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 189,
+    "name": "G. Dragic",
+    "game": "ORL-MIA",
+    "soll_1": 16.5,
+    "ist_1": 3,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 190,
+    "name": "J. Buttler",
+    "game": "ORL-MIA",
+    "soll_1": 23.5,
+    "ist_1": 29,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 191,
+    "name": "T. Young",
+    "game": "ATL-CLE",
+    "soll_1": 28.5,
+    "ist_1": 14,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 192,
+    "name": "C. Sexton",
+    "game": "ATL-CLE",
+    "soll_1": 23.5,
+    "ist_1": 15,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 193,
+    "name": "D. Garland",
+    "game": "ATL-CLE",
+    "soll_1": 16.5,
+    "ist_1": 11,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 194,
+    "name": "J. Brown",
+    "game": "HOU-BOS",
+    "soll_1": 21.5,
+    "ist_1": 24,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 195,
+    "name": "J. Tatum",
+    "game": "HOU-BOS",
+    "soll_1": 24.5,
+    "ist_1": 23,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 196,
+    "name": "K. Walker",
+    "game": "HOU-BOS",
+    "soll_1": 18.5,
+    "ist_1": 0,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 197,
+    "name": "K. Porter Jr.",
+    "game": "HOU-BOS",
+    "soll_1": 17.5,
+    "ist_1": 16,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 198,
+    "name": "V. Oladipo",
+    "game": "HOU-BOS",
+    "soll_1": 21.5,
+    "ist_1": 26,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 199,
+    "name": "A. Edwards",
+    "game": "MIN-POR",
+    "soll_1": 20.5,
+    "ist_1": 34,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 200,
+    "name": "Ca. Anthony",
+    "game": "MIN-POR",
+    "soll_1": 16.5,
+    "ist_1": 16,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 201,
+    "name": "D. Lillard",
+    "game": "MIN-POR",
+    "soll_1": 32.5,
+    "ist_1": 38,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 202,
+    "name": "G. Trent Jr.",
+    "game": "MIN-POR",
+    "soll_1": 17.5,
+    "ist_1": 21,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 203,
+    "name": "K.A. Towns",
+    "game": "MIN-POR",
+    "soll_1": 25.5,
+    "ist_1": 13,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 204,
+    "name": "L. Markkanen",
+    "game": "CHI-TOR",
+    "soll_1": 17.5,
+    "ist_1": 13,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 205,
+    "name": "Z. LaVine",
+    "game": "CHI-TOR",
+    "soll_1": 27.5,
+    "ist_1": 15,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 206,
+    "name": "K. Lowry",
+    "game": "CHI-TOR",
+    "soll_1": 21.5,
+    "ist_1": 20,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 207,
+    "name": "B. Ingram",
+    "game": "NOP-LAC",
+    "soll_1": 23.5,
+    "ist_1": 23,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 208,
+    "name": "Z. Williamson",
+    "game": "NOP-LAC",
+    "soll_1": 25.5,
+    "ist_1": 27,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 209,
+    "name": "K. Leonard",
+    "game": "NOP-LAC",
+    "soll_1": 27.5,
+    "ist_1": 23,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 210,
+    "name": "P. George",
+    "game": "NOP-LAC",
+    "soll_1": 25.5,
+    "ist_1": 15,
+    "datum1": "2021-03-14T13:04:32Z"
+  },
+  {
+    "id": 211,
+    "name": "B. Beal",
+    "game": "WAS-MIL",
+    "soll_1": 29.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 212,
+    "name": "J. Holiday",
+    "game": "WAS-MIL",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 213,
+    "name": "K. Middleton",
+    "game": "WAS-MIL",
+    "soll_1": 20.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 214,
+    "name": "G. Antetokounmpo",
+    "game": "WAS-MIL",
+    "soll_1": 31.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 215,
+    "name": "R. Westbrook",
+    "game": "WAS-MIL",
+    "soll_1": 23.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 216,
+    "name": "B. Hield",
+    "game": "CHA-SAC",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 217,
+    "name": "D. Fox",
+    "game": "CHA-SAC",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 218,
+    "name": "H. Barnes",
+    "game": "CHA-SAC",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 219,
+    "name": "J. Harden",
+    "game": "BRO-NYK",
+    "soll_1": 26.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 220,
+    "name": "K. Irving",
+    "game": "BRO-NYK",
+    "soll_1": 26.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 221,
+    "name": "RJ Barrett",
+    "game": "BRO-NYK",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 222,
+    "name": "J. Randle",
+    "game": "BRO-NYK",
+    "soll_1": 24.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 223,
+    "name": "J. Murray",
+    "game": "DEN-IND",
+    "soll_1": 21.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 224,
+    "name": "M. Porter Jr.",
+    "game": "DEN-IND",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 225,
+    "name": "N. Jokic",
+    "game": "DEN-IND",
+    "soll_1": 25.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 226,
+    "name": "C. LeVert",
+    "game": "DEN-IND",
+    "soll_1": 17.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 227,
+    "name": "D. Sabonis",
+    "game": "DEN-IND",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 228,
+    "name": "M. Brogdon",
+    "game": "DEN-IND",
+    "soll_1": 19.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 229,
+    "name": "C. Paul",
+    "game": "PHO-MEM",
+    "soll_1": 16.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 230,
+    "name": "D. Booker",
+    "game": "PHO-MEM",
+    "soll_1": 27.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
+  },
+  {
+    "id": 231,
+    "name": "L. james",
+    "game": "GSW-LAL",
+    "soll_1": 28.5,
+    "ist_1": 0,
+    "datum1": "2021-03-15T13:04:32Z"
   }
 ]
